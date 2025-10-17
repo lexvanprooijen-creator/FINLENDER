@@ -1,0 +1,10 @@
+{
+  "id": "rabobank-basis",
+  "label": "Rabobank Basis",
+  "provider": "Rabobank",
+  "type": "Basis",
+  "active": true,
+  "notes": "Voorbeeldlabel. Vervang met echte data.",
+  "conditions_url": "https://example.com/voorwaarden/rabobank-basis.pdf",
+  "acceptance_url": "https://example.com/gids/rabobank-basis.pdf"
+}
